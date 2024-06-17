@@ -146,7 +146,6 @@ WITH member_sales_cte AS
 	JOIN dannys_diner.members AS m
 		ON s.customer_id = m.customer_id
 	WHERE s.order_date >= m.join_date)
-)
 SELECT 
   s.customer_id, 
   s.order_date, 
