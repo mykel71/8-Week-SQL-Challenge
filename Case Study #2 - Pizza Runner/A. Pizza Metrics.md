@@ -11,7 +11,7 @@ FROM #customer_orders;
 
 **Answer:**
 
-![1*Ma9L4y6O_zhln6Wy7CdWMQ](https://user-images.githubusercontent.com/81607668/129473598-d6d55ab2-59c7-4040-97db-d1b0c1c5b294.png)
+![1*image](https://user-images.githubusercontent.com/81607668/129473598-d6d55ab2-59c7-4040-97db-d1b0c1c5b294.png)
 
 - Total of 14 pizzas were ordered.
 
@@ -204,5 +204,5 @@ GROUP BY FORMAT(DATEADD(DAY, 2, order_time),'dddd');
 - There are 3 pizzas ordered on Saturday.
 - There is 1 pizza ordered on Sunday.
 
-***Click [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md) for solution for B. Runner and Customer Experience!***
+***Click [here](https://github.com/mykel71/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md) for solution for B. Runner and Customer Experience!***
 
